@@ -1,0 +1,28 @@
+{
+  "name": "spiritoe",
+  "version": "0.2.6",
+  "description": "",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "author": "vasanth",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.2",
+    "nodemailer": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeevernVasanth17/spiritoe"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
